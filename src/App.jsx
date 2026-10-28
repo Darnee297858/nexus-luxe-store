@@ -1,4 +1,4 @@
-gitgimport React, { useState, useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
 import { 
   ShoppingBag, Search, Star, Heart, X, Plus, Minus, Trash2, 
   CheckCircle, ArrowRight, SlidersHorizontal, Sun, Moon, ShieldCheck, 
